@@ -23,3 +23,4 @@ The datasets should be in BigEndian format. The BigEndian refers that frist the 
 Output: Sorted file containg the datasets in ascending order given the metric: #features * #targets * #numberSamples
 
 Exmaple execution file for the method ELPJ48 on the dataset CHD_49 is given in ELPJ48execution.sh. 
+The help file "scikit_ml_learn_data.tar.gz" can be downloaded from: https://tubcloud.tu-berlin.de/s/2qSsDkcCoBRDYxP
